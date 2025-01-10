@@ -1,6 +1,6 @@
-# Gesture-Based Control System
+# Hand Gesture Recognition System
 
-This project implements a gesture-based control system using Python, OpenCV, and Mediapipe. The system detects hand gestures via a webcam and performs specific actions such as simulating keyboard key presses based on the number of fingers detected.
+This project implements a Hand Gesture Recognition System using Python, OpenCV, and Mediapipe. The system detects hand gestures via a webcam and performs specific actions such as simulating keyboard key presses based on the number of fingers detected.
 
 ## How to Run
 
@@ -65,4 +65,6 @@ Feel free to fork this repository and submit pull requests for improvements or n
 **Vamsi Krishna Reddy**  
 Passionate about integrating AI and technology into daily life.
 
+---
 
+### Happy Coding!
